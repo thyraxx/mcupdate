@@ -1,9 +1,9 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/ion-items?gameCategorySlug=mc-mods&projectID=252905",
 	"1.12": {
-		"1.1.2": "Thyraxx: Updated for 1.12"
+		"1.1.3": "Thyraxx: Fixed wrong amount of ion diamonds given. (From 4 to 1)"
 	},
 	"promos": {
-		"1.12-latest": "1.1.2"
+		"1.12-latest": "1.1.3"
 	}
 }
